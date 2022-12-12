@@ -1,2 +1,6 @@
+
+First line of chapter1.txt
+thie is experimental branch of chapter1.txt
+
 First line of chapter1.txt 
-edited after experimental branch
+
